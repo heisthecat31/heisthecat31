@@ -3,9 +3,9 @@
 
 ## <u>**Check Out The Stuff I made**</u>
 
-- Echo VR Mod Tool [Echo VR Mod Tool](https://github.com/heisthecat31/EchoVR-Haptics/releases)
-- Echo VR Texture Editor [Echo VR Texture Editor](https://github.com/EchoTools/EchoVR-Texture-Editor)
-- Echo VR Cosmetics Editor [Echo VR Cosmetics Editor](https://github.com/EchoTools/cosmetic-editor)
-- Spark Mini [Spark-Mini](https://github.com/heisthecat31/Spark-Mini)
-- Spark [Spark-PCVR](https://github.com/heisthecat31/Spark)
-- Echo VR Installer [Echo VR Installer](https://github.com/heisthecat31/EchoVR-Installer)
+- [Echo VR Mod Tool](https://github.com/heisthecat31/EchoVR-Haptics/releases)
+- [Echo VR Texture Editor](https://github.com/EchoTools/EchoVR-Texture-Editor)
+- [Echo VR Cosmetics Editor](https://github.com/EchoTools/cosmetic-editor)
+- [Spark-Mini](https://github.com/heisthecat31/Spark-Mini)
+- [Spark-PCVR](https://github.com/heisthecat31/Spark)
+- [Echo VR Installer](https://github.com/heisthecat31/EchoVR-Installer)
