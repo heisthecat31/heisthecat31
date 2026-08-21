@@ -9,3 +9,5 @@
 - [Spark-Mini](https://github.com/heisthecat31/Spark-Mini)
 - [Spark-PCVR](https://github.com/heisthecat31/Spark)
 - [Echo VR Installer](https://github.com/heisthecat31/EchoVR-Installer)
+- [Model Editor](https://github.com/heisthecat31/evr-mesh-importer)
+- [Advanced Model Exporter](https://github.com/heisthecat31/lone_echo_blender)
