@@ -8,3 +8,4 @@
 - Echo VR Cosmetics Editor [Echo VR Cosmetics Editor](https://github.com/EchoTools/cosmetic-editor)
 - Spark Mini [Spark-Mini](https://github.com/heisthecat31/Spark-Mini)
 - Spark [Spark-PCVR](https://github.com/heisthecat31/Spark)
+- Echo VR Installer [Echo VR Installer](https://github.com/heisthecat31/EchoVR-Installer)
